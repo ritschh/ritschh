@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritschh
-- 👀 I’m interested in qunatum physics simulation software  
+- 👀 I’m interested in quantum physics simulation software  
 - 🌱
 - 💞️ I’m looking to collaborate on qojulia.jl 
 
